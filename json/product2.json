@@ -1,0 +1,94 @@
+{
+    "product" : [
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-1.jpg"
+                }
+            ],
+            "name" : "Tulsi",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$21.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-2.jpg"
+                }
+            ],
+            "name" : "Red label",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$20.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-3.jpg"
+                }
+            ],
+            "name" : "Bhim Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$23.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-1.jpg"
+                }
+            ],
+            "name" : "Ashvagandha",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$20.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-2.jpg"
+                }
+            ],
+            "name" : "Nature close Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$24.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-3.jpg"
+                }
+            ],
+            "name" : "Fresh Share Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$20.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-1.jpg"
+                }
+            ],
+            "name" : "Ori Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$26.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-2.jpg"
+                }
+            ],
+            "name" : "Adarak Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$27.00"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/store-product-3.jpg"
+                }
+            ],
+            "name" : "Tulsi Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+            "price" : "$29.00"
+        }
+    ]
+}

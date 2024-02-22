@@ -86,11 +86,33 @@
 
     $("#show_more").click(function () {
         $(".more_pro").show();
+        $("#show_more").hide();
     });
 
     $("#show_less").click(function () {
         $(".more_pro").hide();
     });
+
+
+    $("#read_more").click(function () {
+        $('.read_more').show();
+        $("#read_more").hide();
+    })
+
+    $("#read_more1").click(function () {
+        $('.read_more1').show();
+        $("#read_more1").hide();
+    })
+
+    $("#more_product").click(function () {
+        $('#more_tea').show();
+        $("#more_product").hide();
+    })
+
+    $("#less_product").click(function () {
+        $('#more_tea').hide();
+        $("#more_product").show();
+    })
 
 })(jQuery);
 

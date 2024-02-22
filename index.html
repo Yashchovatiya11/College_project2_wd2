@@ -150,27 +150,34 @@
                         <p class="fs-5 fw-medium fst-italic text-primary">About Us</p>
                         <h1 class="display-6">The success history of TEA House in 25 years</h1>
                     </div>
-                    <div class="row g-3 mb-4">
-                        <div class="col-sm-4">
-                            <img class="img-fluid bg-white w-100" src="img/about-5.jpg" alt="">
+
+                    <div class="read_more">
+                        <div class="row g-3 mb-4">
+                            <div class="col-sm-4">
+                                <img class="img-fluid bg-white w-100" src="img/about-5.jpg" alt="">
+                            </div>
+                            <div class="col-sm-8">
+                                <h5>Our tea is one of the most popular drinks in the world</h5>
+                                <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam
+                                    amet
+                                    diam et eos. Clita erat ipsum et lorem et sit</p>
+                            </div>
                         </div>
-                        <div class="col-sm-8">
-                            <h5>Our tea is one of the most popular drinks in the world</h5>
-                            <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
-                                diam et eos. Clita erat ipsum et lorem et sit</p>
+                        <div class="border-top mb-4"></div>
+                        <div class="row g-3">
+                            <div class="col-sm-8">
+                                <h5>Daily use of a cup of tea is good for your health</h5>
+                                <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam
+                                    amet
+                                    diam et eos. Clita erat ipsum et lorem et sit</p>
+                            </div>
+                            <div class="col-sm-4">
+                                <img class="img-fluid bg-white w-100" src="img/about-6.jpg" alt="">
+                            </div>
                         </div>
                     </div>
-                    <div class="border-top mb-4"></div>
-                    <div class="row g-3">
-                        <div class="col-sm-8">
-                            <h5>Daily use of a cup of tea is good for your health</h5>
-                            <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
-                                diam et eos. Clita erat ipsum et lorem et sit</p>
-                        </div>
-                        <div class="col-sm-4">
-                            <img class="img-fluid bg-white w-100" src="img/about-6.jpg" alt="">
-                        </div>
-                    </div>
+
+                    <button class="btn btn-primary rounded-pill py-3 px-5" id="read_more">Read More</button>
                 </div>
             </div>
         </div>
@@ -242,19 +249,28 @@
                     <img class="img-fluid" src="img/article.jpg" alt="">
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+
                     <div class="section-title">
                         <p class="fs-5 fw-medium fst-italic text-primary">Featured Acticle</p>
                         <h1 class="display-6">The history of tea leaf in the world</h1>
                     </div>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
+                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
+                        diam et
+                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat
+                        amet
                     </p>
-                    <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-                        sit, sed stet lorem sit clita duo justo magna. Tempor erat elitr rebum at clita.</p>
-                    <a href="" class="btn btn-primary rounded-pill py-3 px-5">Read More</a>
+                    <div class="read_more1">
+                        <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et
+                            lorem et
+                            sit, sed stet lorem sit clita duo justo magna. Tempor erat elitr rebum at clita.</p>
+                    </div>
+                    <button class="btn btn-primary rounded-pill py-3 px-5" id="read_more1">Read More</button>
                 </div>
+
+
             </div>
         </div>
+    </div>
     </div>
     <!-- Article End -->
 
@@ -420,9 +436,22 @@
                     </div>
                 </div>
                 <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <a href="" class="btn btn-primary rounded-pill py-3 px-5">View More Products</a>
+                    <button id="more_product" class="btn btn-primary rounded-pill py-3 px-5">View More
+                        Products</button>
                 </div>
             </div>
+
+            <div id="more_tea" class="row">
+                <div class="more_tea row g-4">
+
+                </div>
+
+                <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <button id="less_product" class="btn btn-primary rounded-pill py-3 px-5">View Less</button>
+                </div>
+            </div>
+
+
         </div>
     </div>
     <!-- Store End -->
@@ -510,6 +539,7 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/fetch.js"></script>
 </body>
 
 </html>

@@ -1,0 +1,85 @@
+{
+    "product" : [
+        {
+            "image": [
+                {
+                    "url": "./img/product-1.jpg"
+                }
+            ],
+            "name" : "Green Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-2.jpg"
+                }
+            ],
+            "name" : "Green Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-3.jpg"
+                }
+            ],
+            "name" : "Black Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-4.jpg"
+                }
+            ],
+            "name" : "Spiced Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-5.jpg"
+                }
+            ],
+            "name" : "Oraganic Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-6.webp"
+                }
+            ],
+            "name" : "Fresh Share Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-7.jpg"
+                }
+            ],
+            "name" : "Ori Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-7.webp"
+                }
+            ],
+            "name" : "Adarak Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        },
+        {
+            "image": [
+                {
+                    "url": "./img/product-9.jpg"
+                }
+            ],
+            "name" : "Tulsi Tea",
+            "des" : "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum"
+        }
+    ]
+}

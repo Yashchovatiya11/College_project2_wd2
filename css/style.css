@@ -386,6 +386,10 @@
     opacity: 1;
 }
 
+.read_more, .read_more1, #more_tea {
+    display: none;
+}
+
 
 /*** Store ***/
 .store-item .store-overlay {
